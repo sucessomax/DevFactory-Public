@@ -1,4 +1,4 @@
-# 📄 AI-SPEC: Todo List Demo (Live Showcase)
+# AI-SPEC: Todo List Demo (Live Showcase)
 
 *Projeto gerado 100% via subagentes (Workers) isolados para demonstrar a eficácia do Framework GSD apresentado nas lives da comunidade.*
 

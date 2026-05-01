@@ -1,4 +1,4 @@
-# 📄 AI-SPEC: [Nome do Projeto]
+# AI-SPEC: [Nome do Projeto]
 
 *Este documento é a fonte da verdade arquitetural. Deve ser preenchido e validado pelo Orquestrador ANTES da invocação da camada de Workers.*
 
